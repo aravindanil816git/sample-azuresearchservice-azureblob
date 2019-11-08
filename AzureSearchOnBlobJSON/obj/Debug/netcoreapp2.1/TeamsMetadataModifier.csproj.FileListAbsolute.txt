@@ -1,0 +1,11 @@
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\TeamsMetadataModifier.deps.json
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\TeamsMetadataModifier.runtimeconfig.json
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\TeamsMetadataModifier.runtimeconfig.dev.json
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\TeamsMetadataModifier.dll
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\TeamsMetadataModifier.pdb
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.csprojAssemblyReference.cache
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.csproj.CoreCompileInputs.cache
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.AssemblyInfoInputs.cache
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.AssemblyInfo.cs
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.dll
+C:\Users\ARAVIND ANIL\source\repos\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\TeamsMetadataModifier.pdb

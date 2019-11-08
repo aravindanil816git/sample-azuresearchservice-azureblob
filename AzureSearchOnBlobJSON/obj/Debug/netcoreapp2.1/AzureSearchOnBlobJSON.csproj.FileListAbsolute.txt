@@ -1,0 +1,11 @@
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.deps.json
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.runtimeconfig.json
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.runtimeconfig.dev.json
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.dll
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\bin\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.pdb
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.csprojAssemblyReference.cache
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.csproj.CoreCompileInputs.cache
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.AssemblyInfoInputs.cache
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.AssemblyInfo.cs
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.dll
+C:\Users\ARAVIND ANIL\Desktop\Projects\TeamsMetadataModifier\TeamsMetadataModifier\obj\Debug\netcoreapp2.1\AzureSearchOnBlobJSON.pdb

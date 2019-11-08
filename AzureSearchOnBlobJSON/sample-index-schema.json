@@ -1,0 +1,53 @@
+{
+  "name": "sample-index",
+  "fields": [
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "key": true
+    },
+    {
+      "name": "answer",
+      "type": "Edm.String",
+      "searchable": true
+    },
+    {
+      "name": "source",
+      "type": "Edm.String",
+      "searchable": true,
+      "sortable": true
+    },
+    {
+      "name": "questions",
+      "type": "Collection(Edm.String)",
+      "searchable": true,
+      "filterable": true
+    },
+    {
+      "name": "metadata",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "name",
+          "type": "Edm.String",
+          "searchable": true,
+          "analyzer": "en.microsoft",
+          "filterable": true
+        },
+        {
+          "name": "value",
+          "type": "Edm.String",
+          "searchable": true,
+          "analyzer": "en.microsoft",
+          "filterable": true
+        }
+      ]
+    },
+    {
+      "name": "createddate",
+      "type": "Edm.DateTimeOffset",
+      "filterable": true,
+      "sortable": true
+    }
+  ]
+}
